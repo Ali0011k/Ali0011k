@@ -27,7 +27,7 @@
   <img width="12" />
   <img src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" height="40" alt="Rabbitmq logo"  />
   <img width="12" />
-  <img src="https://w7.pngwing.com/pngs/757/773/png-transparent-celery-python-node-js-task-celery-miscellaneous-rectangle-grass.png" height="40" alt="Celery logo"  />
+  <img src="https://i.pinimg.com/736x/8b/81/38/8b8138c4491769dd53c5dc09b6548ecf.jpg" height="40" alt="Docker logo"  />
 </div>
 
 ###
