@@ -29,7 +29,7 @@
   <img width="12" />
   <img src="https://static-00.iconduck.com/assets.00/docker-icon-1024x739-rivf80b4.png" height="40" alt="Docker logo"  />
   <img width="12" />
-  <img src="https://openwhisk.apache.org/images/deployments/logo-docker-compose-notext.png" height="40" alt="Docker Compose logo"  />
+  <img src="https://openwhisk.apache.org/images/deployments/logo-docker-compose-notext.png" height="45" alt="Docker Compose logo"  />
 </div>
 
 ###
