@@ -19,11 +19,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-plain.svg" height="40" alt="gitlab logo"  />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" height="40" alt="Rabbitmq logo"  />
-  <img width="12" />
   <img src="https://static-00.iconduck.com/assets.00/docker-icon-1024x739-rivf80b4.png" height="40" alt="Docker logo"  />
   <img width="12" />
   <img src="https://openwhisk.apache.org/images/deployments/logo-docker-compose-notext.png" height="50" alt="Docker Compose logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" height="40" alt="Rabbitmq logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo"/>
   <img width="12" />
