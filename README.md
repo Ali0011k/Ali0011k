@@ -26,7 +26,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-plain.svg" height="40" alt="gitlab logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" height="40" alt="Rabbitmq logo"  />
-
+  <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEFRIAppbOugKG_heh3v9anv0eGqF9oWgRCw&s" height="40" alt="Celery logo"  />
 </div>
 
 ###
