@@ -29,7 +29,7 @@
   <img width="12" />
   <img src="https://static-00.iconduck.com/assets.00/docker-icon-1024x739-rivf80b4.png" height="40" alt="Docker logo"  />
   <img width="12" />
-  <img src="https://c0.klipartz.com/pngpicture/719/226/gratis-png-implementacion-de-software-docker-yaml-integracion-continua-senor.png" height="40" alt="Docker Compose logo"  />
+  <img src="https://desosa.nl/projects/docker-compose/2020/03/02/images/docker-compose/logo_docker_compose.png" height="40" alt="Docker Compose logo"  />
 </div>
 
 ###
