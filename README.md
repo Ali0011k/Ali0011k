@@ -27,7 +27,7 @@
   <img width="12" />
   <img src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" height="40" alt="Rabbitmq logo"  />
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEFRIAppbOugKG_heh3v9anv0eGqF9oWgRCw&s" height="40" alt="Celery logo"  />
+  <img src="https://p7.hiclipart.com/preview/757/773/180/celery-python-node-js-task-celery.jpg" height="40" alt="Celery logo"  />
 </div>
 
 ###
