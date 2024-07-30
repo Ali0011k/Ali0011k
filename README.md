@@ -28,6 +28,8 @@
   <img src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" height="40" alt="Rabbitmq logo"  />
   <img width="12" />
   <img src="https://static-00.iconduck.com/assets.00/docker-icon-1024x739-rivf80b4.png" height="40" alt="Docker logo"  />
+  <img width="12" />
+  <img src="https://c0.klipartz.com/pngpicture/719/226/gratis-png-implementacion-de-software-docker-yaml-integracion-continua-senor.png" height="40" alt="Docker Compose logo"  />
 </div>
 
 ###
