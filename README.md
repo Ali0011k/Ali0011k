@@ -8,12 +8,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
   <img width="12" />
   <img src="https://www.svgrepo.com/show/353657/django-icon.svg" height="40" alt="django logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"/>
-  <img width="12"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRRiUF_V_Z3cmIzI-tlY4pPawIGg5fJDecxg&s" height="40" alt="js logo"/>
   <img width="12"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pytest_logo.svg/600px-Pytest_logo.svg.png?20220319015434" height="40" alt="pytest logo"/>        
   <img width="12" />
@@ -30,6 +24,12 @@
   <img src="https://static-00.iconduck.com/assets.00/docker-icon-1024x739-rivf80b4.png" height="40" alt="Docker logo"  />
   <img width="12" />
   <img src="https://openwhisk.apache.org/images/deployments/logo-docker-compose-notext.png" height="50" alt="Docker Compose logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"/>
+  <img width="12"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRRiUF_V_Z3cmIzI-tlY4pPawIGg5fJDecxg&s" height="40" alt="js logo"/>
 </div>
 
 ###
