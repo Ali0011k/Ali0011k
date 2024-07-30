@@ -27,7 +27,7 @@
   <img width="12" />
   <img src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" height="40" alt="Rabbitmq logo"  />
   <img width="12" />
-  <img src="https://i.pinimg.com/736x/8b/81/38/8b8138c4491769dd53c5dc09b6548ecf.jpg" height="40" alt="Docker logo"  />
+  <img src="https://icon2.cleanpng.com/20180629/kz/aayu3mdys.webp" height="40" alt="Docker logo"  />
 </div>
 
 ###
