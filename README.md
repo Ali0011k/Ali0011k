@@ -19,7 +19,7 @@
   <img width="12" />
   <img src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" height="40" alt="Rabbitmq logo"  />
   <img width="12" />
-  <img src="https://e7.pngegg.com/pngimages/326/224/png-clipart-redis-memcached-database-caching-key-value-database-others-miscellaneous-angle.png" height="40" alt="Redis logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Redis_logo.svg/2560px-Redis_logo.svg.png" height="40" alt="Redis logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
   <img width="12" />
