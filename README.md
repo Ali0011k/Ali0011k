@@ -13,7 +13,7 @@
   <img width="12" />
   <img src="https://assets-global.website-files.com/5fce549c93d4f7795558a9e7/5fce549c93d4f7c12258abc6_Rest%20API%20Logo.png" height="40" alt="rest api logo"/>
   <img width="12" />
-  <img src="https://static-00.iconduck.com/assets.00/docker-icon-1024x739-rivf80b4.png" height="40" alt="Docker logo"  />
+  <img src="http://static-00.iconduck.com/assets.00/docker-icon-1024x739-rivf80b4.png" height="40" alt="Docker logo"  />
   <img width="12" />
   <img src="https://openwhisk.apache.org/images/deployments/logo-docker-compose-notext.png" height="50" alt="Docker Compose logo"  />
   <img width="12" />
