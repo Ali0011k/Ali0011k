@@ -29,7 +29,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
   <img width="12" />
-  <img src="https://cpng.pikpng.com/pngl/s/19-198396_transparent-github-logo-clipart.png" height="40" alt="github logo">
+  <img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" height="40" alt="github logo">
 
 </div>
 
